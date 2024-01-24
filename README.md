@@ -94,9 +94,9 @@
   
   </td></tr>
   <tr><td>
-### 🤾‍♂️ Skills 
-
-- College English Test Band 6 Certificate <br>
-- Professional Qualification in Statistics-Junior
+  ### 📃 Skills
+    
+  - College English Test Band 6 Certificate <br>
+  - Professional Qualification in Statistics-Junior
   </td></tr>
 </div>
