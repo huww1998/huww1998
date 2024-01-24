@@ -36,8 +36,8 @@
 
   <!-- Github stats pictures 统计图 -->
   <p>
-    <img src = "https://github-readme-stats.vercel.app/api?username=huww1998&show_icons=true&theme=tokyonight&line_height=27">
-    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=huww1998&theme=radical">
+    <img src = "https://github-readme-stats.vercel.app/api?username=huww1998&show_icons=true&theme=tokyonight&line_height=27" width="50">
+    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=huww1998&theme=radical" width="50">
   </p>
   
 </div>
