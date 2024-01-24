@@ -103,7 +103,7 @@
   </td></tr>
   <tr><td>
 
-  ###  📃 Skills
+  ###  :wrench: Skills
     
   - College English Test Band 6 Certificate <br>
   - Professional Qualification in Statistics-Junior
