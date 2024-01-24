@@ -93,4 +93,9 @@
   <!-- END_SECTION:douban -->
   
   </td></tr>
+  <tr><td>
+    ### 🤾‍♂️ Skills
+    <p>	College English Test Band 6 Certificate </p>
+    <p>	Professional Qualification in Statistics-Junior </p>
+  </td></tr>
 </div>
