@@ -44,7 +44,7 @@
 
 <img align="right" width="100" src="https://github.com/huww1998/huww1998/blob/main/figures/avatar.png" />
 
-<p>&emsp;&emsp;大家好，我是chenmqStu同学。</p>
+<p>&emsp;&emsp;大家好，我是HuStu同学。</p>
 <p>&emsp;&emsp;</p>
 <p>&emsp;&emsp;我们正在学习中，学会让自己变得更好。芝士就是力量，科技改变世界，这根本难不倒他。</p>
 <p><strong>&emsp;&emsp;We are learning to make ourselves better. Cheese is power, technology changes the world, and it is not difficult for him.</strong></p>
