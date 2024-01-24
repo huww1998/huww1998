@@ -8,12 +8,15 @@
   </div>
 
   <!-- knock code pictures 敲代码的图片 -->
+  <!--   
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
     <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
     <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
   </picture>
-  
+  -->
+
+  <!-- github stats pictures 统计图 -->
   <picture>
     <img src = "https://github-readme-stats.vercel.app/api?username=huww1998&show_icons=true&theme=tokyonight&line_height=27">
     <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=huww1998&theme=radical">
