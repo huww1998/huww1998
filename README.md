@@ -36,7 +36,7 @@
 
 #  🙋 Hello
 
-<table>
+<table width="100%">
   
 <tr><td>
 
