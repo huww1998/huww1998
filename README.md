@@ -112,6 +112,8 @@
   </td></tr>
 </div>
 
+<div>&nbsp;</div>
+
 <div>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=huww1998/star-history&type=Date&theme=dark"/>
