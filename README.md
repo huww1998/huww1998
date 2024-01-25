@@ -110,6 +110,9 @@
   - Public Health Practicing Physician Certificate-Junior
   - Proficient in the statistical software: R, SAS, SPSS
   </td></tr>
+  </table>
+
+  [![Star History Chart](https://api.star-history.com/svg?repos=huww1998/AL_Yolo&type=Date)](https://star-history.com/#huww1998/AL_Yolo&Date)
 </div>
 
 
@@ -122,7 +125,7 @@
 </div>
 
 
-[![Star History Chart](https://api.star-history.com/svg?repos=huww1998/AL_Yolo&type=Date)](https://star-history.com/#huww1998/AL_Yolo&Date)
+
 
 
 
