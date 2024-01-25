@@ -103,10 +103,11 @@
   </td></tr>
   <tr><td>
 
-  ### 🔧 Skills
+  ### 🔧 certification & Skills
     
   - College English Test Band 6 Certificate
   - Professional Qualification in Statistics-Junior
   - Public Health Practicing Physician Certificate-Junior
+  - Proficient in the statistical software: R, SAS, SPSS
   </td></tr>
 </div>
