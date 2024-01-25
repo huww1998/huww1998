@@ -105,7 +105,8 @@
 
   ### 🔧 Skills
     
-  - College English Test Band 6 Certificate <br>
+  - College English Test Band 6 Certificate
   - Professional Qualification in Statistics-Junior
+  - Public Health Practicing Physician Certificate-Junior
   </td></tr>
 </div>
