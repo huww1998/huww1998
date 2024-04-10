@@ -58,13 +58,13 @@
   
   <img align="right" width="66" src="https://github.com/huww1998/huww1998/blob/main/figures/xjtu-logo.png" />
   
-  - [XJTU](https://www.xjtu.edu.cn/) &emsp; 📌 2023-09-01 —— Now
+  - [XJTU](https://www.xjtu.edu.cn/) &emsp; 📌 2021-09-01 —— Now
     - Epidemiology and Health Statistics
     - PostGraduate
   
   <img align="right" width="66" src="https://github.com/huww1998/huww1998/blob/main/figures/xjtu-logo.png" />
   
-  - [XJTU](https://www.xjtu.edu.cn/) &emsp; 📌 2019-09-01 —— 2023-07-01
+  - [XJTU](https://www.xjtu.edu.cn/) &emsp; 📌 2016-09-01 —— 2021-07-01
   
     - Preventive Medicine
     - Undergraduate
