@@ -2,10 +2,14 @@
   
   <!-- dynamic typing effect  动态打字效果 -->
   <div>
-    <a href="https://github.com/huww1998">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);欢迎查看Hu Stu的Github首页!&center=true&size=27" />
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+word;%E6%AC%A2%E8%BF%8E%E6%9F%A5%E7%9C%8BHu+Stu%E7%9A%84Github%E9%A6%96%E9%A1%B5" alt="Typing SVG" />
     </a>
+    <!-- <a href="https://github.com/huww1998">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);欢迎查看Hu Stu的Github首页!&center=true&size=27" />
+    </a> -->
   </div>
+  
 
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
