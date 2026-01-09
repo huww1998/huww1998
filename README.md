@@ -3,7 +3,7 @@
   <!-- dynamic typing effect  动态打字效果 -->
   <div>
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&center=true&vCenter=true&width=600&lines=Hello+word;%E6%AC%A2%E8%BF%8E%E6%9F%A5%E7%9C%8BHu+Stu%E7%9A%84Github%E9%A6%96%E9%A1%B5" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&center=true&vCenter=true&width=600&lines=Hello+world;%E6%AC%A2%E8%BF%8E%E6%9F%A5%E7%9C%8BHu+Stu%E7%9A%84Github%E9%A6%96%E9%A1%B5" alt="Typing SVG" />
     </a>
   </div>
   
