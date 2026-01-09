@@ -7,15 +7,6 @@
     </a>
   </div>
 
-  <!-- knock code pictures  敲代码的图片  -->
-  <!--   
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
-    <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
-  </picture>
-  -->
-
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
  
@@ -105,19 +96,3 @@
   </td></tr>
   </table>
 </div>
-
-<div align="center">
-  <!-- Github stats pictures  统计图 -->
-  <p>
-    <img src = "https://github-readme-stats.vercel.app/api?username=huww1998&show_icons=true&theme=swift&line_height=27" width="46%">
-    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=huww1998&theme=swift" width="46%">
-  </p>
-  
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=huww1998/star-history&type=Date&theme=dark"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=huww1998/star-history&type=Date"/>
-    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=huww1998/star-history&type=Date"/>
-  </picture>
-</div>
-
-
